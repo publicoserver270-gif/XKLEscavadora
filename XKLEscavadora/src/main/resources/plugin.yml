@@ -1,0 +1,6 @@
+name: XKLEscavadora
+version: 1.0.0
+main: br.com.xklgamer.escavadora.XKLEscavadora
+api-version: '26.3'
+author: XKL Gamer
+description: Picareta especial com mineração 3x3 e receita personalizada.
